@@ -1,4 +1,4 @@
-const cacheName = 'iamd-capture-red-blue-en-v15-firebase'
+const cacheName = 'iamd-capture-red-blue-en-v17-exercise-reset'
 const shell = ['./', './index.html', './manifest.webmanifest', './favicon.svg']
 
 self.addEventListener('install', (event) => {

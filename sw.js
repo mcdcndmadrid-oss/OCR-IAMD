@@ -1,4 +1,4 @@
-const cacheName = 'iamd-capture-red-blue-en-v13'
+const cacheName = 'iamd-capture-red-blue-en-v14'
 const shell = ['./', './index.html', './manifest.webmanifest', './favicon.svg']
 
 self.addEventListener('install', (event) => {

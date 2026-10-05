@@ -1,7 +1,7 @@
 {
-  "name": "IAMD RED Capture",
-  "short_name": "RED Capture",
-  "description": "Capture and validate handwritten RED forms for Planning Bridge.",
+  "name": "IAMD RED / BLUE Capture",
+  "short_name": "IAMD Capture",
+  "description": "Capture and validate handwritten RED and BLUE planning forms for Planning Bridge.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#08110f",
